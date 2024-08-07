@@ -2,11 +2,6 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0px;
-  font-family: 'Roboto';
-}
-
 .user-card-container {
   display: flex;
   align-items: center;
@@ -29,13 +24,15 @@ body {
   color: #12022f;
   font-family: 'Roboto';
   font-weight: bold;
-  margin-top: 0px;
-  margin-bottom: 8px;
+  margin-top: 4px;
+  margin-bottom: 6px;
+  margin-left: 15px;
 }
 
 .user-designation {
   font-family: 'Roboto';
   font-size: 14px;
   color: #594d6d;
-  margin: 0px;
+  margin: 15px;
+  margin-top: 7px;
 }
